@@ -17,7 +17,7 @@ function result(rollNumbers, res){
 
     Promise.all(result)
     .then(response => {
-        console.log('Line 24 -'+response);
+//         console.log('Line 24 -'+response);
         res.status(200).json({'result':response});
     })
     
