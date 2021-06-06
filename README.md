@@ -68,3 +68,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+### component
+
+checkresult
+
+### library
+axios
+
+### approach
+
+I have called the provided API through backend express.js synchronously .
+
+First run command in cmd 1 => npm run start
+Rhen run second command in cmd 2 => node app.js
+
+
+
+
+### Test Case
+
+![1](https://user-images.githubusercontent.com/57755918/120923228-13660780-c6eb-11eb-87a1-9747e98e581e.JPG)
+
+
+
+
+
+
+![2](https://user-images.githubusercontent.com/57755918/120923241-25e04100-c6eb-11eb-8054-04d2db90278f.JPG)
+
+
+
